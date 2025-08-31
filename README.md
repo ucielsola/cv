@@ -20,6 +20,7 @@ Front-end developer specializing in creating responsive, high-performance user i
 - Integrated real-time chat functionality using Twilio Conversations, significantly enhancing user engagement.
 - Conducted technical interviews, contributing to strategic hiring and team expansion.
 - Optimized collaboration between front-end and back-end teams by refining and automating development workflows.
+- Developed a full-fledged chat interface with streaming responses, state management, and error handling for AI agent communications
 
 ### Software Engineer, [Viset](https://visetlab.com/) — Brussels, BE
 
