@@ -6,64 +6,45 @@
 
 ## About
 
-Front-end developer specializing in creating responsive, high-performance user interfaces. Experienced with modern frameworks, dedicated to building efficient, scalable web applications. Proven expertise in streamlining workflows, enhancing team collaboration, and delivering exceptional results.
+Front-end engineer and de-facto owner of the frontend on a multi-app B2B SaaS platform. Over four years I've grown into the highest-output contributor on the team — owning architecture, engineering standards, and the shared design system across a SvelteKit/TypeScript monorepo. I care about maintainable systems, strong developer experience, and shipping quickly without breaking things.
 
 ---
 
 ## Experience
 
-### Software Engineer, [Mercanis](https://mercanis.com/) — Berlin, DE
-
+### Software Engineer (Full-time, Contract), [Mercanis](https://mercanis.com/) — Berlin, DE (remote)
 **May 2022 – Present**
+- De-facto owner of the frontend across a multi-app SvelteKit/TypeScript monorepo — several product applications plus the shared design system and utility libraries used across all teams.
+- Highest-output engineer on the frontend team across every period tracked; primary reviewer through whom the majority of frontend changes flow.
+- Authored the team's frontend architecture principles, branching strategy, and engineering standards, now adopted as team practice.
+- Built real-time chat with Twilio Conversations and a streaming AI-agent chat interface (streamed responses, state management, error handling).
+- Drove developer-experience and CI improvements — automated workflows and quality gates — and conducted technical interviews supporting team growth.
 
-- Developed robust solutions achieving up to 90% clean-code coverage, ensuring maintainability and scalability.
-- Integrated real-time chat functionality using Twilio Conversations, significantly enhancing user engagement.
-- Conducted technical interviews, contributing to strategic hiring and team expansion.
-- Optimized collaboration between front-end and back-end teams by refining and automating development workflows.
-- Developed a full-fledged chat interface with streaming responses, state management, and error handling for AI agent communications
-
-### Software Engineer, [Viset](https://visetlab.com/) — Brussels, BE
-
+### Software Engineer (Part-time), [Viset](https://visetlab.com/) — Brussels, BE
 **October 2021 – May 2024**
-
-- Engineered an advanced audio player featuring sophisticated playback capabilities, significantly improving user experience.
-- Successfully upgraded application architecture from Angular 14 to Angular 18, resulting in enhanced performance and maintainability.
-- Led a major architectural redesign, effectively reducing technical debt and promoting scalability.
+- Part-time role, overlapping my full-time position at Mercanis.
+- Upgraded the application from Angular 14 to Angular 18, improving performance and maintainability.
+- Led an architectural redesign that reduced technical debt and improved scalability.
+- Engineered an advanced audio player with sophisticated playback capabilities.
 
 ---
 
 ## Projects
 
-### [ManijaTV](https://github.com/ucielsola/manija)
-
-- The application is designed to simultaneously monitor multiple live news channels in a single, streamlined interface.
-
-### [Classic Snake Game](https://github.com/ucielsola/snake)
-
-- Developed a dynamic implementation of the classic Snake game, leveraging the reactivity model of Svelte 5 for enhanced performance.
-
-### [Classic Minesweeper Game](https://github.com/ucielsola/minesweeper)
-
-- Focused on reactive state management and performance optimization techniques in modern web applications.
-
 ### [Interactive program for La Martino Orquesta Típica](https://lmot.ar)
+- A web-based interactive experience for the live show *"Sinfonía Estelar Tanguera,"* where each celestial body maps to a moment in the performance. Animated navigation through segments, fully responsive, immersive galactic-inspired design.
 
-- A web-based interactive experience created for the live show *“Sinfonía Estelar Tanguera”* by La Martino Orquesta Típica. The site invites audiences to explore a cosmic narrative where each celestial body represents a key moment in the performance. It is designed to enhance the storytelling aspect of the concert with visual and interactive elements.
-- **Highlights:** animated navigation through performance segments, fully responsive layout, immersive galactic-inspired design.
+### [ManijaTV](https://github.com/ucielsola/manija)
+- Monitors multiple live news channels simultaneously in a single streamlined interface. Built with SvelteKit (Svelte 5) and the YouTube API.
+
+### [Classic Game Reimplementations — Snake & Minesweeper](https://github.com/ucielsola)
+- [Snake](https://github.com/ucielsola/snake) and [Minesweeper](https://github.com/ucielsola/minesweeper), built to explore Svelte 5's reactivity model, state management, and performance optimization.
 
 ---
 
 ## Technologies
 
-**Languages:** JavaScript, HTML, CSS
+**Languages:** TypeScript, JavaScript, HTML, CSS
+**Frameworks & Tools:** Svelte & SvelteKit (Svelte 5), Angular, RxJS, React, Ionic, Capacitor, TailwindCSS, Vite, Node.js, pnpm, Git / GitLab CI, Bash, Linux, macOS
 
-**Technologies:** TypeScript, Svelte, Angular, RXJS, Ionic, Capacitor React, TailwindCSS, Bash, Linux, Windows, OSx.
-
----
-
-## Core Competencies
-
-- Excellent communication and interpersonal skills
-- Highly adaptable and agile in dynamic environments
-- Proficient in delivering and receiving constructive feedback
-- Proven ability to collaborate effectively in team-driven settings
+**Spoken:** Spanish (native), English (professional working proficiency)
