@@ -1,29 +1,27 @@
 # Uciel Sola
-
 **Buenos Aires, Argentina** | [solauciel@gmail.com](mailto:solauciel@gmail.com) | [+54 9 11 5612 2325](tel:+54-911-5612-2325) | [ucielsola.dev](https://ucielsola.dev/) | [linkedin.com/in/ucielsola](https://linkedin.com/in/ucielsola) | [github.com/ucielsola](https://github.com/ucielsola)
 
 ---
 
 ## About
-
-Front-end engineer and de-facto owner of the frontend on a multi-app B2B SaaS platform. Over four years I've grown into the highest-output contributor on the team — owning architecture, engineering standards, and the shared design system across a SvelteKit/TypeScript monorepo. I care about maintainable systems, strong developer experience, and shipping quickly without breaking things.
+Frontend engineer who grew into real ownership of the frontend on a multi-app B2B SaaS platform. Over four years I've become the highest-output contributor on the team — owning architecture, engineering standards, and the shared design system across a SvelteKit/TypeScript monorepo. Also bring ~3 years of hands-on Angular experience (v14 → v18) from a parallel role. I care about maintainable systems, strong developer experience, and shipping quickly without breaking things.
 
 ---
 
 ## Experience
 
-### Software Engineer (Full-time, Contract), [Mercanis](https://mercanis.com/) — Berlin, DE (remote)
+### Frontend Engineer · Independent Contractor, [Mercanis](https://mercanis.com/) — Berlin, DE (remote)
 **May 2022 – Present**
-- De-facto owner of the frontend across a multi-app SvelteKit/TypeScript monorepo — several product applications plus the shared design system and utility libraries used across all teams.
+- Real ownership of the frontend across a multi-app SvelteKit/TypeScript monorepo — several product applications plus the shared design system and utility libraries used across all teams.
 - Highest-output engineer on the frontend team across every period tracked; primary reviewer through whom the majority of frontend changes flow.
 - Authored the team's frontend architecture principles, branching strategy, and engineering standards, now adopted as team practice.
 - Built real-time chat with Twilio Conversations and a streaming AI-agent chat interface (streamed responses, state management, error handling).
 - Drove developer-experience and CI improvements — automated workflows and quality gates — and conducted technical interviews supporting team growth.
 
-### Software Engineer (Part-time), [Viset](https://visetlab.com/) — Brussels, BE
-**October 2021 – May 2024**
-- Part-time role, overlapping my full-time position at Mercanis.
-- Upgraded the application from Angular 14 to Angular 18, improving performance and maintainability.
+### Frontend Engineer · Independent Contractor, [Viset](https://www.instagram.com/visetlab/) — Brussels, BE
+**October 2021 – December 2024**
+- **Angular** (v14 → v18) over ~3 years: upgraded the application across four major versions, improving performance and maintainability.
+- Migrated component-level state management from RxJS to **Signals**, simplifying reactivity and reducing boilerplate — kept RxJS in services for real-time data streams (Firebase).
 - Led an architectural redesign that reduced technical debt and improved scalability.
 - Engineered an advanced audio player with sophisticated playback capabilities.
 
@@ -43,8 +41,6 @@ Front-end engineer and de-facto owner of the frontend on a multi-app B2B SaaS pl
 ---
 
 ## Technologies
-
 **Languages:** TypeScript, JavaScript, HTML, CSS
-**Frameworks & Tools:** Svelte & SvelteKit (Svelte 5), Angular, RxJS, React, Ionic, Capacitor, TailwindCSS, Vite, Node.js, pnpm, Git / GitLab CI, Bash, Linux, macOS
-
+**Frameworks & Tools:** Svelte & SvelteKit (Svelte 5), **Angular (v14–v18, ~3 yrs, last used Dec 2024)**, RxJS, React, Ionic, Capacitor, TailwindCSS, Vite, Node.js, pnpm, Git / GitLab CI, Bash, Linux, macOS
 **Spoken:** Spanish (native), English (professional working proficiency)
