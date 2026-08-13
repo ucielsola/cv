@@ -33,6 +33,9 @@ Frontend engineer specializing in **SvelteKit** and **TypeScript**, with end-to-
 
 ## Projects
 
+### [ExcaliVault](https://chromewebstore.google.com/detail/excalivault/fdckioocnehmbnkamiaopmboehgpdlik)
+- Published, local-first Chrome extension for organizing, searching, and managing Excalidraw sketches. Built with **Svelte 5**, **TypeScript**, **WXT**, **Tailwind CSS 4**, and WebExtension APIs. [Source code](https://github.com/ucielsola/excalivault).
+
 ### [UcielSola.dev](https://ucielsola.dev/)
 - Interactive AI-powered portfolio: a chat interface backed by a **RAG** pipeline that answers questions about my background. Also exposes a public REST endpoint, an `llms.txt` / `llms-full.txt` machine-readable profile, and an **MCP** server for AI agents to query directly.
 
