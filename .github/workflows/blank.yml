@@ -1,0 +1,22 @@
+name: Rebuild website CV
+
+  on:
+    push:
+      branches: [main]
+      paths: [README.md]
+
+  jobs:
+    dispatch:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Trigger website rebuild
+          env:
+            TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+          run: |
+            curl --fail-with-body --request POST \
+              --url
+              https://api.github.com/repos/ucielsola/website/dispatches \
+              --header "Accept: application/vnd.github+json" \
+              --header "Authorization: Bearer $TOKEN" \
+              --header "X-GitHub-Api-Version: 2026-03-10" \
+              --data '{"event_type":"cv-updated"}'
