@@ -4,7 +4,7 @@
 ---
 
 ## About
-Frontend engineer who grew into real ownership of the frontend on a multi-app B2B SaaS platform. Over four years I've become the highest-output contributor on the team — owning architecture, engineering standards, and the shared design system across a **SvelteKit** and **TypeScript** monorepo. Also bring ~3 years of hands-on **Angular** experience (**v14 → v18**) from a parallel role. I care about maintainable systems, strong developer experience, and shipping quickly without breaking things.
+Frontend engineer specializing in **SvelteKit** and **TypeScript**, with end-to-end ownership across a multi-app B2B SaaS platform. I shape frontend architecture, engineering standards, and a shared design system used by a 25-engineer organization, while shipping and releasing customer-facing products. I also bring ~3 years of hands-on **Angular** experience (**v14 → v18**) building a connected-device mobile application. I care about maintainable systems, strong developer experience, and shipping quickly without breaking things.
 
 ---
 
@@ -12,19 +12,22 @@ Frontend engineer who grew into real ownership of the frontend on a multi-app B2
 
 ### Frontend Engineer · Independent Contractor, [Mercanis](https://mercanis.com/) — Berlin, DE (remote)
 **May 2022 – Present**
-- Real ownership of the frontend across a multi-app **SvelteKit** and **TypeScript** based monorepo — several product applications plus the shared design system and utility libraries used across all teams.
-- Highest-output engineer on the frontend team across every period tracked; primary reviewer through whom the majority of frontend changes flow.
+- Own the frontend across a **SvelteKit** and **TypeScript** monorepo: two customer-facing and two internal applications, plus a shared design system and utility libraries used by ~25 engineers.
+- Own frontend architecture and delivery for the Sourcing and Auctions domains, including third-party integrations, observability with **Sentry** and **PostHog**, feature flags, core business capabilities, and tailored customer workflows.
+- Reduced CI duration by ~30% by improving resource-cache usage; manage manual **Git Flow** releases for customer-facing applications.
+- Consistently lead the team in commits and completed Jira tickets, and serve as a primary reviewer and technical point of contact for frontend work.
 - Authored the team's frontend architecture principles, branching strategy, and engineering standards, now adopted as team practice.
-- Built real-time chat with **Twilio Conversations** and a streaming AI-agent chat interface (streamed responses, state management, error handling).
-- Drove developer-experience and CI improvements — automated workflows and quality gates — and conducted technical interviews supporting team growth.
+- Built real-time chat with **Twilio Conversations** and the company's “10x Buyer” streaming AI-agent interface, improving the buyer experience in sourcing operations.
+- Drove developer-experience and CI improvements through automated workflows and quality gates; also conduct technical interviews to support team growth.
 
 ### Frontend Engineer · Independent Contractor, [Viset](https://www.instagram.com/visetlab/) — Brussels, BE
 **October 2021 – December 2024**
+- Built a multi-platform wellness application that connected over **Bluetooth** to a proprietary yoga mat delivering low-frequency vibrations for deep relaxation; served ~200 users.
 - **Angular** (**v14 → v18**) over ~3 years: upgraded the application across four major versions, improving performance and maintainability.
 - Migrated component-level state management from **RxJS** to **Signals**, simplifying reactivity and reducing boilerplate — kept **RxJS** in services for real-time data streams (**Firebase**).
 - Upgraded **Capacitor** (**v5 → v8**) alongside the **Angular** migration, keeping the native iOS/Android build pipeline current through every major version.
 - Led an architectural redesign that reduced technical debt and improved scalability.
-- Engineered an advanced audio player with sophisticated playback capabilities.
+- Built a feature-rich audio and haptics player with Bluetooth synchronization, background playback, playlists, offline support, progressive streaming, and per-channel vibration-intensity controls.
 
 ---
 
@@ -41,6 +44,10 @@ Frontend engineer who grew into real ownership of the frontend on a multi-app B2
 
 ### [Classic Game Reimplementations — Snake & Minesweeper](https://github.com/ucielsola)
 - [Snake](https://github.com/ucielsola/snake) and [Minesweeper](https://github.com/ucielsola/minesweeper), built to explore **Svelte 5**'s reactivity model, state management, and performance optimization.
+
+## Education
+**Licenciatura en Ciberdefensa** *(Bachelor's Degree in Cyber Defense)* · Facultad de la Defensa Nacional (FADENA), Universidad de la Defensa Nacional (UNDEF) — Argentina
+*2026–2029 (expected)*
 
 ---
 
